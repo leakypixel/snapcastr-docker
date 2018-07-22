@@ -1,5 +1,5 @@
 # Snapcastr docker
-Created from (snapcastr, by xkonni)[https://github.com/xkonni/snapcastr/].
+Created from [snapcastr, by xkonni](https://github.com/xkonni/snapcastr/).
 
 ## Run like:
 `docker run -d --restart=unless-stopped -e SNAPCAST_HOST="jack" -p 5011:5011 leakypixel/snapcastr`
